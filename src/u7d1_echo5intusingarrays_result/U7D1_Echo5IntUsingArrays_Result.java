@@ -11,9 +11,6 @@ public class U7D1_Echo5IntUsingArrays_Result {
         
         int[] myList = new int[5];
         
-        
-        
-        
         for (int i = 0; i < 5; int++){
             
         }
